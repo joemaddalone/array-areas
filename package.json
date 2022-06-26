@@ -1,0 +1,27 @@
+{
+  "name": "array-areas",
+  "version": "1.0.0",
+  "description": "Select elements in 2D arrays in interesting ways",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemaddalone/array-areas.git"
+  },
+  "author": "Joe Maddalone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joemaddalone/array-areas/issues"
+  },
+  "homepage": "https://github.com/joemaddalone/array-areas#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
