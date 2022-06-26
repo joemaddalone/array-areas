@@ -1,4 +1,4 @@
-# array-trails
+# array-areas
 
 Select elements in 2D arrays in interesting ways.
 
