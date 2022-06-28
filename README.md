@@ -35,7 +35,7 @@ If our array looked like this
 └─────┴─────┴─────┴─────┴─────┘
 ```
 
-And we called `diagonal(arr, 1, 2)` our result would be a flat array containing
+And we called `diagonal(arr, 2, 1)` our result would be a flat array containing
 
 ```
 [
