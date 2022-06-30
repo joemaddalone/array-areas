@@ -1,6 +1,6 @@
 {
   "name": "array-areas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Select elements in 2D arrays in interesting ways",
   "type": "module",
   "exports": "./index.js",
