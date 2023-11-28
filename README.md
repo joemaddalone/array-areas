@@ -88,9 +88,9 @@ And we called `antidiagonal(arr, 1, 2)` our result would be a flat array contain
 ```
 [
   {row: 0, col: 3, val: 'd' },
-  {row: 1, col: 2, val: 'g' },
+  {row: 1, col: 2, val: 'h' },
   {row: 2, col: 1, val: 'l' },
-  {row: 3, col: 0, val: 'u' },
+  {row: 3, col: 0, val: 'p' },
 ]
 ```
 
